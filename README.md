@@ -1,7 +1,8 @@
 ## Hi there 👋
+I am a passionate computer scientist, who likes to delve into Artificial intelligence, machine learning, virtual reality and various game and media technologies. I have worked with a large base of various technologies and tools.
 
 <!--
-**Flizz95/Flizz95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RobertoCampisi/RobertoCampisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
