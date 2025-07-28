@@ -1,5 +1,8 @@
 ## Hi there 👋
-I am a passionate computer scientist, who likes to delve into Artificial intelligence, machine learning, virtual reality and various game and media technologies. I have encountered a large variety of technologies and tools over a decade. 
+I am a passionate computer scientist from the Netherlands, who likes to delve into Artificial intelligence, machine learning, virtual reality and various game and media technologies. I have encountered a large variety of technologies and tools over a decade. 
+
+- 🔭 I’m currently working on my own CLI for solving advent of code puzzles
+- 🌱 I’m currently learning PHP together with the Laravel framework
 
 <!--
 **RobertoCampisi/RobertoCampisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +38,26 @@ anaconda, angular, apache, bootstrap, c, cmake?, composer?, eclipse, figma, file
   <img alt="Static Badge" src="https://img.shields.io/badge/css-663399?logo=css">
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-white?logo=Docker">
   <img alt="Static Badge" src="https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse">
-  
+  <img alt="Static Badge" src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Filezilla-BF0000?logo=Filezilla&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GIMP-8C8073?logo=GIMP&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Gitlab-FC6D26?logo=Gitlab&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Haskell-5D4F85?logo=Haskell&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Inkscape-black?logo=Inkscape&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ%20IDEA-black?logo=IntelliJ%20IDEA&logoColor=white">
+  <!-- Java -->
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white">
+  <!-- LaTex -->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black">
+  <!-- Mathlab-->
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-5FA04E?logo=Node.js&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=OBS%20Studio&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/opencv-%235C3EE8?logo=opencv">
   <img alt="Static Badge" src="https://img.shields.io/badge/OpenGL-white?logo=opengl&logoColor=5586A4">
   <img alt="Static Badge" src="https://img.shields.io/badge/p5.js-ed225d?logo=p5.js">
@@ -44,39 +66,12 @@ anaconda, angular, apache, bootstrap, c, cmake?, composer?, eclipse, figma, file
   <img alt="Static Badge" src="https://img.shields.io/badge/Processing-grey?logo=processing%20foundation">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/PyCharm-black?logo=pycharm&logoColor=white">
-
-
+  <img alt="Static Badge" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Trello-0052CC?logo=Trello&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?logo=Unity">
   <!-- VS Code-->
   <!-- visual studio-->
   <!-- Windows 10-->
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
