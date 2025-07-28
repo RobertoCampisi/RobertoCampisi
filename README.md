@@ -18,8 +18,40 @@ Here are some ideas to get you started:
 
 <!-- TODO:
 add icons and links for:
-anaconda, angular, apache, bootstrap, c, cmake?, composer?, eclipse, figma, filezilla, gimp, git, github, gitlab, godot?, haskell, inkscape, intellij, jupyter, laravel, latex, lua?, mysql, nodejs, numpy, opencl, opencv, p5js, processing, prolog?, pycharm, r?, raspberrypi, trello, visualstudio, vscode, linux, windows10 
+anaconda, angular, apache, bootstrap, c, cmake?, composer?, eclipse, figma, filezilla, gimp, git, github, gitlab, godot?, haskell, inkscape, intellij, jupyter, laravel?, latex, lua?, mysql, nodejs, numpy, opencl, opencv, p5js, processing, prolog?, pycharm, r?, raspberrypi, trello, visualstudio, vscode, linux, windows10 
 -->
+
+<h3 align="left">Languages and tools:</h3>
+<p align="left">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Anaconda-white?logo=anaconda">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Angular-purple?logo=angular">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Apache-red?logo=apache">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Arduino-0ca1a6?logo=Arduino">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bash-black?logo=GNU%20Bash">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Blender-white?logo=Blender">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-blue?logo=c">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B">
+  <!-- csharp-->
+  <img alt="Static Badge" src="https://img.shields.io/badge/css-663399?logo=css">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-white?logo=Docker">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse">
+  
+  <img alt="Static Badge" src="https://img.shields.io/badge/opencv-%235C3EE8?logo=opencv">
+  <img alt="Static Badge" src="https://img.shields.io/badge/OpenGL-white?logo=opengl&logoColor=5586A4">
+  <img alt="Static Badge" src="https://img.shields.io/badge/p5.js-ed225d?logo=p5.js">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-grey?logo=php">
+  <!-- photoshop Adobe-->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Processing-grey?logo=processing%20foundation">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PyCharm-black?logo=pycharm&logoColor=white">
+
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?logo=Unity">
+  <!-- VS Code-->
+  <!-- visual studio-->
+  <!-- Windows 10-->
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
