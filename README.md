@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a passionate computer scientist, who likes to delve into Artificial intelligence, machine learning, virtual reality and various game and media technologies. I have worked with a large base of various technologies and tools.
+I am a passionate computer scientist, who likes to delve into Artificial intelligence, machine learning, virtual reality and various game and media technologies. I have encountered a large variety of technologies and tools over a decade. 
 
 <!--
 **RobertoCampisi/RobertoCampisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ add icons and links for:
 anaconda, angular, apache, bootstrap, c, cmake?, composer?, eclipse, figma, filezilla, gimp, git, github, gitlab, godot?, haskell, inkscape, intellij, jupyter, laravel?, latex, lua?, mysql, nodejs, numpy, opencl, opencv, p5js, processing, prolog?, pycharm, r?, raspberrypi, trello, visualstudio, vscode, linux, windows10 
 -->
 
-<h3 align="left">Languages and tools:</h3>
+<h3 align="left"> 🛠️ Languages and Tools:</h3>
 <p align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/Anaconda-white?logo=anaconda">
   <img alt="Static Badge" src="https://img.shields.io/badge/Angular-purple?logo=angular">
