@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a passionate computer scientist from the Netherlands, who likes to delve into Artificial intelligence, machine learning, virtual reality and various game and media technologies. I have encountered a large variety of technologies and tools over a decade. 
 
-- 🔭 I’m currently working on my own CLI for solving advent of code puzzles
+- 🔭 I’m currently working on my own CLI for solving advent of code puzzles in python
 - 🌱 I’m currently learning PHP together with the Laravel framework
 
 <!--
